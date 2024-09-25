@@ -1,0 +1,7 @@
+Enter the Url 
+Search the item 
+Add to cart
+Add the Address
+Make a payment
+Place Order
+Track the order
